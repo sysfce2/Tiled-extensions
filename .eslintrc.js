@@ -22,9 +22,11 @@ module.exports = {
 		]
 	},
 	"globals": {
+		"Dialog": "readonly",
 		"File": "readonly",
 		"FileInfo": "readonly",
 		"MapObject": "readonly",
+		"ObjectGroup": "readonly",
 		"TextFile": "readonly",
 		"TileLayer": "readonly",
 		"TileMap": "readonly",
